@@ -5,22 +5,22 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 
 ---
 
-## 📂 **Table of Contents**  
-- [1️⃣ Data Exploration & Initial Analysis](#1️⃣-data-exploration--initial-analysis)  
-- [2️⃣ Data Cleaning](#2️⃣-data-cleaning)  
-- [3️⃣ Data Transformation](#3️⃣-data-transformation)  
-- [4️⃣ Price & Duration Updates](#4️⃣-price--duration-updates)  
-- [5️⃣ Categorization & Classification](#5️⃣-categorization--classification)  
-- [6️⃣ Column Removal & Adjustments](#6️⃣-column-removal--adjustments)  
-- [7️⃣ Revenue & Performance Analysis](#7️⃣-revenue--performance-analysis)  
-- [8️⃣ Dasher Insights & Analysis](#8️⃣-dasher-insights--analysis)  
-- [9️⃣ Delivery Insights & Analysis](#9️⃣-delivery-insights--analysis)  
-- [🔟 Revenue Insights & Analysis](#🔟-revenue-insights--analysis)  
-- [🔍 Comparisons & Advanced Analysis](#-comparisons--advanced-analysis)  
-- [📊 Key Findings & Business Recommendations](#-key-findings--business-recommendations)  
-- [📜 SQL Queries Used](#-sql-queries-used)  
-- [⚙️ Tech Stack & Tools](#️-tech-stack--tools)  
-- [📌 About the Author](#-about-the-author)  
+##  **Table of Contents**  
+- [Data Exploration & Initial Analysis](#1️⃣-data-exploration--initial-analysis)  
+- [Data Cleaning](#2️⃣-data-cleaning)  
+- [Data Transformation](#3️⃣-data-transformation)  
+- [Price & Duration Updates](#4️⃣-price--duration-updates)  
+- [Categorization & Classification](#5️⃣-categorization--classification)  
+- [Column Removal & Adjustments](#6️⃣-column-removal--adjustments)  
+- [Revenue & Performance Analysis](#7️⃣-revenue--performance-analysis)  
+- [Dasher Insights & Analysis](#8️⃣-dasher-insights--analysis)  
+- [Delivery Insights & Analysis](#9️⃣-delivery-insights--analysis)  
+- [Revenue Insights & Analysis](#🔟-revenue-insights--analysis)  
+- [Comparisons & Advanced Analysis](#-comparisons--advanced-analysis)  
+- [Key Findings & Business Recommendations](#-key-findings--business-recommendations)  
+- [SQL Queries Used](#-sql-queries-used)  
+- [Tech Stack & Tools](#️-tech-stack--tools)  
+- [About the Author](#-about-the-author)  
 
 ---
 
