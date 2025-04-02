@@ -146,7 +146,7 @@ All analyses were performed using **SQL queries**, including:
 - Delivery performance evaluation  
 - Advanced insights & KPI comparisons  
 
-Queries are available in the **SQL_Scripts.sql** file in this repository.  
+Queries are available in the **DoorDash_Query_Scripts.sql** file in this repository.  
 
 ---
 
