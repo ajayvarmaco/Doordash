@@ -175,11 +175,6 @@ Queries are available in the **DoorDash_Query_Scripts.sql** file in this reposit
 - **Cloud Services:** Google Cloud (For data storage and processing)  
 - **Development Environment:** MySQL Workbench  
 
----
-
-## Project Appendix
-
-For additional details, please refer to the [Project Appendix PDF](https://github.com/ajayvarmaco/Doordash/blob/main/Appendix.pdf).
 
 
 ![DoorDash Banner](Data/Images/DoorDashBottomBanner.png)
