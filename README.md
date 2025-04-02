@@ -126,10 +126,10 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 This project aimed to analyze delivery performance, dasher workload, order volumes, and revenue trends across different markets. The insights generated provide actionable recommendations for improving delivery efficiency, optimizing dasher performance, and increasing revenue while maintaining customer satisfaction.  
 
 ###  Recommendations Summary:  
-✔️ **Better dasher load management** during peak hours to reduce delivery delays.  
-✔️ **Improved time prediction models** using AI-driven analytics for better resource planning.  
-✔️ **Focusing on high-revenue markets and top cuisines** to maximize earnings.  
-✔️ **Incentivizing dashers** during peak times to enhance service reliability.  
+**Better dasher load management** during peak hours to reduce delivery delays.  
+**Improved time prediction models** using AI-driven analytics for better resource planning.  
+**Focusing on high-revenue markets and top cuisines** to maximize earnings.  
+**Incentivizing dashers** during peak times to enhance service reliability.  
 
 ###  Considerations  
 - Implement **real-time monitoring** to dynamically adjust strategies based on evolving demand.  
@@ -150,7 +150,7 @@ Queries are available in the **SQL_Scripts.sql** file in this repository.
 
 ---
 
-## ⚙ **Tech Stack & Tools**  
+##  **Tech Stack & Tools**  
 - **Database:** MySQL  
 - **Querying & Analysis:** SQL  
 - **Visualization:** Power BI 
@@ -159,7 +159,7 @@ Queries are available in the **SQL_Scripts.sql** file in this repository.
 
 ---
 
-📧 **Contact:** hello@ajayvarma.co  
-🔗 **LinkedIn:** https://linkedin.com/in/ajayvarmaco
+**Contact:** hello@ajayvarma.co  
+**LinkedIn:** https://linkedin.com/in/ajayvarmaco
 
 ---
