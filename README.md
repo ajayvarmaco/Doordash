@@ -1,4 +1,4 @@
-![Delivery Performance Chart](data/images/DoorDashTopBanner.png)
+![Data Loading](./Data/images/DoorDashTopBanner.png)
 
 ##  **DoorDash Delivery and Revenue Optimization**  
 
@@ -165,5 +165,4 @@ Queries are available in the **DoorDash_Query_Scripts.sql** file in this reposit
 
 
 
-![Delivery Performance Chart](data/images/DoorDashBottomBanner.png)
-
+![Data Loading](./Data/images/DoorDashBottomBanner.png)
