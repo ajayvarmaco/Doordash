@@ -173,7 +173,9 @@ Queries are available in the **DoorDash_Query_Scripts.sql** file in this reposit
 - **Querying & Analysis:** SQL  
 - **Visualization:** Power BI 
 - **Cloud Services:** Google Cloud (For data storage and processing)  
-- **Development Environment:** MySQL Workbench  
+- **Development Environment:** MySQL Workbench
+- ** Documentation:** Figma  
+
 
 
 
