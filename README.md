@@ -165,4 +165,4 @@ Queries are available in the **DoorDash_Query_Scripts.sql** file in this reposit
 
 
 
-![Data Loading](./Data/images/DoorDashBottomBanner.png)
+![DoorDash Banner](Data/Images/DoorDashBottomBanner.png)
