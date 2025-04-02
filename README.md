@@ -11,6 +11,18 @@ Food delivery services face challenges in optimizing delivery efficiency, managi
 
 ---
 
+## Resources
+
+Here are resources related to the project:
+
+1. **[Project Documentation](https://github.com/ajayvarmaco/Doordash/blob/main/Documentation/DoorDash-Optimization-Project-Doc.pdf)**: Detailed project documentation outlining the approach, methodology, and results.
+2. **[SQL Queries](https://github.com/ajayvarmaco/Doordash/blob/main/SQL/DoorDash_Query_Scripts.sql)**: SQL scripts used for data extraction, cleaning, and analysis.
+3. **[Source Data](https://github.com/ajayvarmaco/Doordash/blob/main/Data/DoorDash-Source-Data.csv)**: Raw data used for analysis, including store information and order details.
+4. **[Project Appendix](https://github.com/ajayvarmaco/Doordash/blob/main/Appendix.pdf)**: Additional project details and supplementary information.
+5. **[Dashboard File](https://github.com/ajayvarmaco/Doordash/blob/main/Dashboard/DoorDash-Delivery-and-Revenue-Optimization-Dashboard.pbix)**: Power BI dashboard used for data visualization and analysis.
+
+---
+
 ##  **Table of Contents**  
 
 - [Data Exploration & Initial Analysis](#data-exploration--initial-analysis)  
