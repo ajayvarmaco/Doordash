@@ -1,3 +1,5 @@
+![Delivery Performance Chart](data/images/DoorDashTopBanner.png)
+
 ##  **DoorDash Delivery and Revenue Optimization**  
 
 ##  **Project Overview**  
@@ -161,9 +163,7 @@ Queries are available in the **DoorDash_Query_Scripts.sql** file in this reposit
 - **Cloud Services:** Google Cloud (For data storage and processing)  
 - **Development Environment:** MySQL Workbench  
 
----
 
-**Contact:** hello@ajayvarma.co  
-**LinkedIn:** https://linkedin.com/in/ajayvarmaco
 
----
+![Delivery Performance Chart](data/images/DoorDashBottomBanner.png)
+
