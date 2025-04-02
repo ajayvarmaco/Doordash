@@ -1,4 +1,4 @@
-![Data Loading](./Data/images/DoorDashTopBanner.png)
+![DoorDash Top Banner](Data/Images/DoorDashTopBanner.png)
 
 ##  **DoorDash Delivery and Revenue Optimization**  
 
