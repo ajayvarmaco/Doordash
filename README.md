@@ -3,31 +3,35 @@
 ##  **Project Overview**  
 This project focuses on analyzing **DoorDash delivery data** to extract meaningful insights regarding **dashers (delivery personnel), order deliveries, and revenue trends** across various markets. I performed **data exploration, cleaning, transformation, and in-depth analysis** to uncover patterns in **delivery times, order volumes, market performance, and customer behavior.**  
 
+### **Problem Statement**  
+
+Food delivery services face challenges in optimizing delivery efficiency, managing dasher workloads, and improving customer satisfaction. High-demand periods lead to delays, inefficient resource allocation, and suboptimal revenue performance. This project aims to analyze delivery performance, order trends, and revenue contributions to identify key bottlenecks and provide data-driven recommendations for enhancing operational efficiency and maximizing profitability.
+
 ---
 
 ##  **Table of Contents**  
 
-- [Data Exploration & Initial Analysis](#1️⃣-data-exploration--initial-analysis)  
-- [Data Cleaning](#2️⃣-data-cleaning)  
-- [Data Transformation](#3️⃣-data-transformation)  
-- [Price & Duration Updates](#4️⃣-price--duration-updates)  
-- [Categorization & Classification](#5️⃣-categorization--classification)  
-- [Column Removal & Adjustments](#6️⃣-column-removal--adjustments)  
-- [Revenue & Performance Analysis](#7️⃣-revenue--performance-analysis)  
-- [Dasher Insights & Analysis](#8️⃣-dasher-insights--analysis)  
-- [Delivery Insights & Analysis](#9️⃣-delivery-insights--analysis)  
-- [Revenue Insights & Analysis](#🔟-revenue-insights--analysis)  
+- [Data Exploration & Initial Analysis](#data-exploration--initial-analysis)  
+- [Data Cleaning](#data-cleaning)  
+- [Data Transformation](#data-transformation)  
+- [Price & Duration Updates](#price--duration-updates)  
+- [Categorization & Classification](#categorization--classification)  
+- [Column Removal & Adjustments](#column-removal--adjustments)  
+- [Revenue & Performance Analysis](#revenue--performance-analysis)  
+- [Dasher Insights & Analysis](#dasher-insights--analysis)  
+- [Delivery Insights & Analysis](#delivery-insights--analysis)  
+- [Revenue Insights & Analysis](#revenue-insights--analysis)  
 - [Comparisons & Advanced Analysis](#-comparisons--advanced-analysis)  
 - [Key Findings & Business Recommendations](#-key-findings--business-recommendations)  
-  - [Dasher Workload & Delivery Performance](#🚴‍♂️-dasher-workload--delivery-performance)  
-  - [Delivery Efficiency & Timeliness](#⏳-delivery-efficiency--timeliness)  
-  - [Cuisine Popularity & Product Offering](#🍽️-cuisine-popularity--product-offering)  
-  - [High-Value Orders & Delivery Efficiency](#💰-high-value-orders--delivery-efficiency)  
-  - [Time Optimization & Order Volume Management](#⏰-time-optimization--order-volume-management)  
-  - [Conclusion](#📊-conclusion)  
-- [SQL Queries Used](#-sql-queries-used)  
-- [Tech Stack & Tools](#️-tech-stack--tools)  
-- [About the Author](#-about-the-author)  
+  - [Dasher Workload & Delivery Performance](#dasher-workload--delivery-performance)  
+  - [Delivery Efficiency & Timeliness](#delivery-efficiency--timeliness)  
+  - [Cuisine Popularity & Product Offering](#cuisine-popularity--product-offering)  
+  - [High-Value Orders & Delivery Efficiency](#high-value-orders--delivery-efficiency)  
+  - [Time Optimization & Order Volume Management](#time-optimization--order-volume-management)  
+  - [Conclusion](#conclusion)  
+- [SQL Queries Used](#sql-queries-used)  
+- [Tech Stack & Tools](#️tech-stack--tools)  
+- [About the Author](#about-the-author)  
 
 ---
 
@@ -105,7 +109,7 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 - **Predictive Analytics**: Leverage AI to forecast demand spikes and dynamically allocate resources to reduce delays.  
 - **Buffer Times**: Implement controlled buffer times during peak hours to better manage delays and set realistic customer expectations.  
 
-### 🍽️ Cuisine Popularity & Product Offering  
+###  Cuisine Popularity & Product Offering  
 - **Expand High-Performing Cuisines**: Introduce exclusive or premium versions of top-selling cuisines (e.g., Pizza, Mexican, American) to increase customer spend.  
 - **Localize Menus**: Tailor food offerings based on regional preferences (e.g., Japanese, Indian, or local specialties) to enhance customer satisfaction.  
 - **Seasonal Menus**: Launch limited-time or holiday-themed menu items to boost engagement and sales during specific seasons.  
