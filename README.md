@@ -6,6 +6,7 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 ---
 
 ##  **Table of Contents**  
+
 - [Data Exploration & Initial Analysis](#1️⃣-data-exploration--initial-analysis)  
 - [Data Cleaning](#2️⃣-data-cleaning)  
 - [Data Transformation](#3️⃣-data-transformation)  
@@ -18,6 +19,12 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 - [Revenue Insights & Analysis](#🔟-revenue-insights--analysis)  
 - [Comparisons & Advanced Analysis](#-comparisons--advanced-analysis)  
 - [Key Findings & Business Recommendations](#-key-findings--business-recommendations)  
+  - [Dasher Workload & Delivery Performance](#🚴‍♂️-dasher-workload--delivery-performance)  
+  - [Delivery Efficiency & Timeliness](#⏳-delivery-efficiency--timeliness)  
+  - [Cuisine Popularity & Product Offering](#🍽️-cuisine-popularity--product-offering)  
+  - [High-Value Orders & Delivery Efficiency](#💰-high-value-orders--delivery-efficiency)  
+  - [Time Optimization & Order Volume Management](#⏰-time-optimization--order-volume-management)  
+  - [Conclusion](#📊-conclusion)  
 - [SQL Queries Used](#-sql-queries-used)  
 - [Tech Stack & Tools](#️-tech-stack--tools)  
 - [About the Author](#-about-the-author)  
@@ -57,7 +64,11 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 ##  **Revenue & Performance Analysis**  
 - **Daily & hourly revenue trends** to analyze peak revenue periods.  
 - **Impact of delivery time on revenue** based on time-of-day analysis.  
-- **Performance metrics analysis**, including dasher load factor, delivery duration, and outstanding orders.  
+- **Performance metrics analysis**, including dasher load factor, delivery duration, and outstanding orders.
+- **Market contribution to total revenue** (highest and lowest-performing regions).  
+- **Cuisines generating the most revenue** and their popularity by order volume.
+- **Item pricing analysis** by cuisine category.  
+ 
 
 ##  **Dasher Insights & Analysis**  
 - **Dasher workload analysis** across different markets.  
@@ -70,13 +81,8 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 - **Market-level analysis** of average delivery times.  
 - **Comparing actual vs estimated delivery times** across all orders.  
 - **Late delivery patterns** and peak-hour delays by market.  
-- **Peak hours for orders**, identifying the busiest periods.  
-
-# **Revenue Insights & Analysis**  
-- **Market contribution to total revenue** (highest and lowest-performing regions).  
-- **Cuisines generating the most revenue** and their popularity by order volume.  
-- **High-value order delivery trends**, analyzing if premium orders are delivered faster.  
-- **Item pricing analysis** by cuisine category.  
+- **Peak hours for orders**, identifying the busiest periods.
+- **High-value order delivery trends**, analyzing if premium orders are delivered faster.
 
 ##  **Comparisons & Advanced Analysis**  
 - **Dasher load vs actual delivery times**, identifying bottlenecks.  
@@ -88,13 +94,13 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 
 ---
 
-## 📌 Key Findings & Business Recommendations  
+##  Key Findings & Business Recommendations  
 
-### 🚴‍♂️ Dasher Workload & Delivery Performance  
+###  Dasher Workload & Delivery Performance  
 - **Optimize Load Distribution**: Increase dasher availability during peak hours (18:00, 20:00, 22:00) to reduce delays and improve order fulfillment.  
 - **Peak Hour Incentives**: Introduce bonuses for dashers during high-demand periods to ensure adequate coverage.  
 
-### ⏳ Delivery Efficiency & Timeliness  
+###  Delivery Efficiency & Timeliness  
 - **Enhance Time Estimates**: Improve delivery time predictions by integrating real-time traffic, weather, and location data.  
 - **Predictive Analytics**: Leverage AI to forecast demand spikes and dynamically allocate resources to reduce delays.  
 - **Buffer Times**: Implement controlled buffer times during peak hours to better manage delays and set realistic customer expectations.  
@@ -104,28 +110,28 @@ This project focuses on analyzing **DoorDash delivery data** to extract meaningf
 - **Localize Menus**: Tailor food offerings based on regional preferences (e.g., Japanese, Indian, or local specialties) to enhance customer satisfaction.  
 - **Seasonal Menus**: Launch limited-time or holiday-themed menu items to boost engagement and sales during specific seasons.  
 
-### 💰 High-Value Orders & Delivery Efficiency  
+###  High-Value Orders & Delivery Efficiency  
 - **Prioritize High-Value Orders**: Ensure that orders above $50 receive faster processing and delivery during peak hours.  
 - **Accurate Time Estimates**: Provide better estimated delivery times for premium orders, ensuring efficient resource allocation.  
 - **Premium Delivery Option**: Introduce an optional **"Priority Delivery"** service for customers willing to pay extra for guaranteed faster delivery.  
 
-### ⏰ Time Optimization & Order Volume Management  
+###  Time Optimization & Order Volume Management  
 - **Optimize Peak Hour Resources**: Utilize predictive models to dynamically adjust dasher availability and restaurant staff levels.  
 - **Promote Off-Peak Ordering**: Offer discounts or incentives for orders placed during off-peak hours to balance demand.  
 - **Flexible Delivery Windows**: Provide customers with multiple delivery window options to improve satisfaction and reduce peak-hour congestion.  
 
 ---
 
-## 📊 Conclusion  
+##  Conclusion  
 This project aimed to analyze delivery performance, dasher workload, order volumes, and revenue trends across different markets. The insights generated provide actionable recommendations for improving delivery efficiency, optimizing dasher performance, and increasing revenue while maintaining customer satisfaction.  
 
-### ✅ Recommendations Summary:  
+###  Recommendations Summary:  
 ✔️ **Better dasher load management** during peak hours to reduce delivery delays.  
 ✔️ **Improved time prediction models** using AI-driven analytics for better resource planning.  
 ✔️ **Focusing on high-revenue markets and top cuisines** to maximize earnings.  
 ✔️ **Incentivizing dashers** during peak times to enhance service reliability.  
 
-### 🔍 Considerations  
+###  Considerations  
 - Implement **real-time monitoring** to dynamically adjust strategies based on evolving demand.  
 - Encourage **dashers to work peak hours** through well-structured incentive programs.  
 - Continuously **analyze customer feedback** and market trends to refine strategies for long-term growth.  
@@ -145,22 +151,15 @@ Queries are available in the **SQL_Scripts.sql** file in this repository.
 ---
 
 ## ⚙ **Tech Stack & Tools**  
-- **Database:** PostgreSQL / MySQL  
+- **Database:** MySQL  
 - **Querying & Analysis:** SQL  
-- **Visualization:** Power BI / Tableau (Optional)  
-- **Cloud Services:** AWS / Azure (For data storage and processing)  
-- **Development Environment:** Jupyter Notebook / DBeaver / SQL Workbench  
+- **Visualization:** Power BI 
+- **Cloud Services:** Google Cloud (For data storage and processing)  
+- **Development Environment:** MySQL Workbench  
 
 ---
-
-##  **About the Author**  
-👋 **[Your Name]** – Data Analyst | SQL Expert | BI Developer  
-🔹 Passionate about transforming raw data into meaningful insights.  
-🔹 Experienced in **SQL, Power BI, Python**, and **data-driven decision-making**.  
-🔹 Open to collaboration on **data analytics projects**.  
 
 📧 **Contact:** hello@ajayvarma.co  
 🔗 **LinkedIn:** https://linkedin.com/in/ajayvarmaco
 
 ---
-
