@@ -90,6 +90,11 @@ Here are resources related to the project:
 - **Cuisines generating the most revenue** and their popularity by order volume.
 - **Item pricing analysis** by cuisine category.  
  
+---
+
+![Doordash VS Code MYSQL](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/doordash-mysql-vscode.png)
+
+---
 
 ##  **Dasher Insights & Analysis**  
 - **Dasher workload analysis** across different markets.  
