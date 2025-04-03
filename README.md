@@ -115,8 +115,11 @@ Here are resources related to the project:
 
 ---
 
-| ![Image 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-1.png) | ![Image 2](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-2.png) | ![Image 3](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-3.png) |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| ![Image 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-1.png) |
+|---------------------------------------------------------------------------------------------------|
+
+| ![Image 2](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-2.png) | ![Image 3](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-3.png) |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 ---
 
