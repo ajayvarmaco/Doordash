@@ -5,7 +5,7 @@
 ##  **Project Overview**  
 This project focuses on analyzing **DoorDash delivery data** to extract meaningful insights regarding **dashers (delivery personnel), order deliveries, and revenue trends** across various markets. I performed **data exploration, cleaning, transformation, and in-depth analysis** to uncover patterns in **delivery times, order volumes, market performance, and customer behavior.**  
 
-### **Problem Statement**  
+## **Problem Statement**  
 
 Food delivery services face challenges in optimizing delivery efficiency, managing dasher workloads, and improving customer satisfaction. High-demand periods lead to delays, inefficient resource allocation, and suboptimal revenue performance. This project aims to analyze delivery performance, order trends, and revenue contributions to identify key bottlenecks and provide data-driven recommendations for enhancing operational efficiency and maximizing profitability.
 
@@ -46,6 +46,7 @@ Here are resources related to the project:
 - [SQL Queries Used](#sql-queries-used)  
 - [Tech Stack & Tools](#️tech-stack--tools)  
 
+---
 
 ![Doordash Dashboard 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-2.png)
 
