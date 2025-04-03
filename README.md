@@ -47,6 +47,11 @@ Here are resources related to the project:
 - [Tech Stack & Tools](#️tech-stack--tools)  
 - [About the Author](#about-the-author)  
 
+
+| ![Image 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-1.png) | ![Image 2](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-2.png) | ![Image 3](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-3.png) |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+
+
 ---
 
 ##  **Data Exploration & Initial Analysis**  
