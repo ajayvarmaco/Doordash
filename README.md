@@ -48,7 +48,6 @@ Here are resources related to the project:
 - [About the Author](#about-the-author)  
 
 
-## Doordash Dashboard Image
 
 ![Doordash Dashboard 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-2.png)
 
@@ -114,6 +113,11 @@ Here are resources related to the project:
 - **Factors influencing late deliveries**, including order size and dasher availability.  
 - **Top markets and cuisines** ranked by revenue, order volume, and efficiency.  
 - **Fastest delivery time windows**, identifying optimal delivery periods.  
+
+---
+
+| ![Image 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-1.png) | ![Image 2](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-2.png) | ![Image 3](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-3.png) |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 ---
 
