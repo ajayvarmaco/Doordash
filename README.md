@@ -115,6 +115,7 @@ Here are resources related to the project:
 
 ---
 
+###  **Power BI Desktop - Data Cleaning, Dashboard Creation, and More**  
 | ![Image 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-powerbi-1.png) |
 |---------------------------------------------------------------------------------------------------|
 
@@ -151,6 +152,7 @@ Here are resources related to the project:
 
 ---
 
+###  **Power BI Dashboard**  
 ![Doordash Power BI Dashboard](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-2.png)
 
 ---
