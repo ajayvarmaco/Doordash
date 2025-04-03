@@ -45,8 +45,6 @@ Here are resources related to the project:
   - [Conclusion](#conclusion)  
 - [SQL Queries Used](#sql-queries-used)  
 - [Tech Stack & Tools](#️tech-stack--tools)  
-- [About the Author](#about-the-author)  
-
 
 
 ![Doordash Dashboard 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-2.png)
