@@ -165,6 +165,9 @@ This project aimed to analyze delivery performance, dasher workload, order volum
 - Encourage **dashers to work peak hours** through well-structured incentive programs.  
 - Continuously **analyze customer feedback** and market trends to refine strategies for long-term growth.  
 
+### Full Project Documentation
+Check the following file for the full project documentation: [DoorDash Optimization Project Documentation](https://github.com/ajayvarmaco/Doordash/blob/main/Documentation/DoorDash-Optimization-Project-Doc.pdf)
+
 ---
 
 ##  **SQL Queries Used**  
