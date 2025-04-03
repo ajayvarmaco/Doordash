@@ -184,6 +184,6 @@ Queries are available in the **DoorDash_Query_Scripts.sql** file in this reposit
 - **Documentation:** Figma  
 
 
-
+##
 
 ![DoorDash Banner](Data/Images/DoorDashBottomBanner.png)
