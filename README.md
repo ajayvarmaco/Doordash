@@ -48,6 +48,7 @@ Here are resources related to the project:
 
 ---
 
+###  **Connecting to MySQL Server through VS Code**  
 ![Doordash VS Code MYSQL](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/doordash-mysql-vscode.png)
 
 ---
