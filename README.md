@@ -48,7 +48,7 @@ Here are resources related to the project:
 
 ---
 
-![Doordash Dashboard 1](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-2.png)
+![Doordash VS Code MYSQL](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/doordash-mysql-vscode.png)
 
 ---
 
@@ -89,12 +89,6 @@ Here are resources related to the project:
 - **Market contribution to total revenue** (highest and lowest-performing regions).  
 - **Cuisines generating the most revenue** and their popularity by order volume.
 - **Item pricing analysis** by cuisine category.  
- 
----
-
-![Doordash VS Code MYSQL](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/doordash-mysql-vscode.png)
-
----
 
 ##  **Dasher Insights & Analysis**  
 - **Dasher workload analysis** across different markets.  
@@ -156,6 +150,10 @@ Here are resources related to the project:
 
 ---
 
+![Doordash VS Code MYSQL](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/doordash-mysql-vscode.png)
+
+---
+
 ##  Conclusion  
 This project aimed to analyze delivery performance, dasher workload, order volumes, and revenue trends across different markets. The insights generated provide actionable recommendations for improving delivery efficiency, optimizing dasher performance, and increasing revenue while maintaining customer satisfaction.  
 
@@ -192,8 +190,8 @@ Queries are available in the **DoorDash_Query_Scripts.sql** file in this reposit
 - **Querying & Analysis:** SQL  
 - **Visualization:** Power BI 
 - **Cloud Services:** Google Cloud (For data storage and processing)  
-- **Development Environment:** MySQL Workbench
-- **Documentation:** Figma  
+- **Development Environment:** MySQL Workbench, VS Code
+- **Documentation:** Figma, Adobe
 
 
 ##
