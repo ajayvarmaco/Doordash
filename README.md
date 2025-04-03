@@ -150,7 +150,7 @@ Here are resources related to the project:
 
 ---
 
-![Doordash VS Code MYSQL](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/doordash-mysql-vscode.png)
+![Doordash Power BI Dashboard](https://github.com/ajayvarmaco/Doordash/blob/main/Data/Images/Doordash-dashboard-2.png)
 
 ---
 
